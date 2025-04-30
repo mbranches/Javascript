@@ -49,5 +49,5 @@ class ValidaCpf {
 
 //705.484.450-52 070.987.720-03
 
-const validaCpf = new ValidaCpf("070.987.720-03");
-console.log(validaCpf.valida())
+// const validaCpf = new ValidaCpf("070.987.720-03");
+// console.log(validaCpf.valida())
